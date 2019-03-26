@@ -23,7 +23,7 @@
 * Skmultilearn
 
 ## Project Description <a name="ProjectDescription"></a>
-In this project, I predict Indoor Location of users using Wifi fingerprints with a combination of Principal Component Analysis (PSA) and Multi-label Classification using skmultilearn
+In this project, I predict Indoor Location of users using Wifi fingerprints with a combination of Principal Component Analysis (PCA) and Multi-label Classification using skmultilearn
 Many businesses and service providers rely on localization services in order to better serve their patrons. Thanks to the inclusion of GPS sensors in mobile devices, Outdoor localization problems have been solved in a variety of ways and very accurately. However, indoor localization is still an open problem mainly due to the loss of GPS signal in indoor environments.
 Therefore, the problem of indoor localization has recently garnered increased attention from researchers who have opted to focus more on cheaper software solutions in place of expensive hardware solutions. 
 
